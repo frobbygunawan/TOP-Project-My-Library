@@ -1,0 +1,16 @@
+table {
+  text-align: left;
+  width: 30%;
+}
+
+form {
+  border: thin solid; 
+  padding: 1%;
+  width: 60vw;
+}
+
+#form_content {
+  display: grid;
+  grid-template-columns: 20% auto;
+  justify-items: start;
+}
